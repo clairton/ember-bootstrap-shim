@@ -1,6 +1,6 @@
 {
   "name": "ember-bootstrap-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bootstrap Ember shim.",
   "keywords": [
     "ember-addon",
